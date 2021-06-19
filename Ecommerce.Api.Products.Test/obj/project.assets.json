@@ -4140,11 +4140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Products.Test\\Ecommerce.Api.Products.Test.csproj",
+      "projectUniqueName": "C:\\study\\Ecommerce\\Ecommerce.Api.Products.Test\\Ecommerce.Api.Products.Test.csproj",
       "projectName": "Ecommerce.Api.Products.Test",
-      "projectPath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Products.Test\\Ecommerce.Api.Products.Test.csproj",
+      "projectPath": "C:\\study\\Ecommerce\\Ecommerce.Api.Products.Test\\Ecommerce.Api.Products.Test.csproj",
       "packagesPath": "C:\\Users\\rab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Products.Test\\obj\\",
+      "outputPath": "C:\\study\\Ecommerce\\Ecommerce.Api.Products.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4162,8 +4162,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
-              "projectPath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
+            "C:\\study\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
+              "projectPath": "C:\\study\\Ecommerce\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
             }
           }
         }

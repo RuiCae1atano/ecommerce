@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {}
+    "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {
+    "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+        "projectUniqueName": "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
         "projectName": "Ecommerce.Api.Search",
-        "projectPath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+        "projectPath": "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
         "packagesPath": "C:\\Users\\rab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\obj\\",
+        "outputPath": "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rab\\AppData\\Roaming\\NuGet\\NuGet.Config",

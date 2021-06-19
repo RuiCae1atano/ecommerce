@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zXMhmIiBtfQW0hpdZ5nbhWQMGiBqQB2ZSwg2Ct7FDw7HV6SpVBibPOCq+MxenrRXDPu08D6JbZ9ZCDcGbS0LA==",
+  "dgSpecHash": "5kuYG787nV8tlU2eUFJcMw+995Wm4sChtPU5W3QrhtJlK3eRQEqccODL/pSVqbuGHqGOgCzni+ebI23MWgPqCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rab\\source\\repos\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+  "projectFilePath": "C:\\study\\Ecommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rab\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\rab\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
