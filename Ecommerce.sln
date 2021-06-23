@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Orders", "Eco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Search", "Ecommerce.Api.Search\Ecommerce.Api.Search.csproj", "{0400E990-0D67-498A-AEB5-6453CC85AEC5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products.Test", "Ecommerce.Api.Products.Test\Ecommerce.Api.Products.Test.csproj", "{99338363-A950-4FA4-A3FA-619C689B8287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products.Tests", "Ecommerce.Api.Products.Test\Ecommerce.Api.Products.Tests.csproj", "{99338363-A950-4FA4-A3FA-619C689B8287}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E3F450A9-6EB0-4C6A-8B2E-52C61A90D7AF}"
 EndProject

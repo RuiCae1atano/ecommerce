@@ -7,9 +7,9 @@ using System;
 using System.Linq;
 using Xunit;
 
-namespace Ecommerce.Api.Products.Test
+namespace Ecommerce.Api.Products.Tests
 {
-    public class ProductsServiceTest
+    public class ProductsServiceTests
     {
         [Fact]
         public async void GetProductsReturnsAllProducts()
