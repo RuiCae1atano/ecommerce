@@ -18,6 +18,8 @@ namespace Ecommerce.Api.Products.Tests
                 .UseInMemoryDatabase(nameof(GetProductsReturnsAllProducts))
                 .Options;
 
+            //myturn
+
             var dbContext = new ProductsDbContext(options);
             CreateProducts(dbContext);
             var productProfile = new ProductProfile();
